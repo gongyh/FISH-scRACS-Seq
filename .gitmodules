@@ -1,0 +1,6 @@
+[submodule "nf-core-scgs"]
+	path = nf-core-scgs
+	url = git@github.com:gongyh/RamanD2O.git
+[submodule "RamanD2O"]
+	path = RamanD2O
+	url = git@github.com:gongyh/RamanD2O.git
